@@ -8,7 +8,7 @@ public interface TravelService {
 
     String getAnswerMessageService(String message);
 
-    void deleteTravelService(String message);
+    void deleteTravelService(String city);
 
     boolean addTravelService(Travel travel);
 

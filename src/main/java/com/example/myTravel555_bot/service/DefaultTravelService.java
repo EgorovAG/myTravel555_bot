@@ -33,8 +33,8 @@ public class DefaultTravelService implements TravelService {
 
     @Transactional
     @Override
-    public void deleteTravelService(String message) {
-        travelRepository.deleteTravelRep(message);
+    public void deleteTravelService(String city) {
+        travelRepository.deleteTravelRep(city);
     }
 
     @Transactional
