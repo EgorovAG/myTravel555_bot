@@ -1,7 +1,7 @@
 t.me/myTravel555_bot
 
 username=myTravel555_bot
-token=1523037892:AAFs72nuiGGGFjjOR1RVRmhPxF6o161g--
+token=55555
 
 Файл для создания таблицы в БД и нескольких городов со "справочной" информацией:
 src\main\java\com\example\myTravel555_bot\repository\db.sql
